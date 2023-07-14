@@ -47,7 +47,8 @@ body {
   scroll-snap-align: start;
   width: var(--slide-width);
   height: var(--slide-height);
-  background-size: cover;
+  /*background-size: cover;*/
+  background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
 }
